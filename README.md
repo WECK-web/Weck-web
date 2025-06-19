@@ -1,31 +1,28 @@
-<h1 align="center">Hi 👋, I'm Mike</h1>
-<h3 align="center">A passionate Android Developer from Kenya 🇰🇪</h3>
+# 👋 Hello, I'm Mike (WECK-web)!
 
-- 🔭 I’m currently working on: **Crypto Dashboard Tracker App and a Chama Management App**
-- 🌱 I’m currently learning: **Kotlin, Jetpack Compose, MVVM**
-- 💬 Ask me about: **Git, GitHub, Android, Retrofit**
-- 📫 How to reach me: [Email](mailto:ciurimike@gmail.com)
-
----
-
-### 🛠️ Languages and Tools:
-<p>
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
+🌱 I'm currently learning Android Development with Kotlin  
+🚀 Building a Cryptocurrency Dashboard App  
+💻 Love working with Git, GitHub, Jetpack Compose, and Kotlin  
+🎯 Goals: Become a world-class mobile developer  
+📫 How to reach me: [Email me](mailto:youremail@example.com)  
 
 ---
 
-### 🔥 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?WECK-web=WECK-web &show_icons=true&theme=tokyonight" alt="stats"/>
-  <img src="https://streak-stats.demolab.com/?user=  WECK-web & theme=tokyonight" alt="streak"/>
-</p>
+## 🛠️ Tools & Technologies
+![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat&logo=android&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/-Jetpack%20Compose-4285F4?style=flat&logo=android)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
 
 ---
 
-### 📌 Pinned Repositories
-[Crypto Dashboard App](https://github.com/Weck-web/your-crypto-repo) - Android App to track cryptocurrencies  
-[My Portfolio](https://github.com/Weck-web/portfolio) - My Web Portfolio  
+## 📊 GitHub Stats
+![Mike's GitHub Stats](https://github-readme-stats.vercel.app/api?username=WECK-web&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WECK-web&layout=compact&theme=radical)
+
+---
+
+## 📌 Pinned Repositories
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=WECK-web&repo=crypto-dashboard-tracker&theme=radical)](https://github.com/WECK-web/crypto-dashboard-tracker)
