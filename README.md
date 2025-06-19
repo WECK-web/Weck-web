@@ -28,4 +28,7 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=WECK-web&repo=MyFirstApp&theme=radical)](https://github.com/WECK-web/MyFirstApp)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=WECK-web&repo=android-ui-experiments&theme=radical)](https://github.com/WECK-web/android-ui-experiments)
+- - -
+![Visitor Badge](https://komarev.com/ghpvc/?username=WECK-web&label=Visitors&color=blue&style=flat)
+
 
