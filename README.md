@@ -25,4 +25,7 @@
 ---
 
 ## 📌 Pinned Repositories
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=WECK-web&repo=crypto-dashboard-tracker&theme=radical)](https://github.com/WECK-web/crypto-dashboard-tracker)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=WECK-web&repo=MyFirstApp&theme=radical)](https://github.com/WECK-web/MyFirstApp)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=WECK-web&repo=android-ui-experiments&theme=radical)](https://github.com/WECK-web/android-ui-experiments)
+
