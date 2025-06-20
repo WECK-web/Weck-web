@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Mike (WECK-web)!
 
 🌱 I'm currently learning Android Development with Kotlin  
-🚀 Building a Cryptocurrency Dashboard App  
+🚀 Building a Cryptocurrency Dashboard App and a Chama Management App named AkibaPamoja  
 💻 Love working with Git, GitHub, Jetpack Compose, and Kotlin  
 🎯 Goals: Become a world-class mobile developer  
 📫 How to reach me: [Email me](mailto:youremail@example.com)  
