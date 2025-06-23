@@ -1,6 +1,8 @@
 <p align="center">
-  <img src="A_digital_graphic_banner_showcases_Mike_Ciuri,_an_.png" alt="Mike Ciuri Banner" style="max-width:100%;" />
+  <img src="https://raw.githubusercontent.com/WECK-web/WECK-web/main/mike-banner.png" alt="Mike Ciuri Banner" style="max-width:100%;" />
 </p>
+
+
 
 # 👋 Hello, I'm Mike (WECK-web)!
 
