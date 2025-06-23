@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/WECK-web/WECK-web/main/mike-banner.png" alt="Mike Ciuri Banner" style="max-width:100%;" />
+  <img src="WECK_Web ChatGPT Image Jun 23, 2025, 10_38_14 AM.png" alt="Mike Ciuri Banner" style="max-width:100%;" />
 </p>
 
 
