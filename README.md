@@ -1,8 +1,3 @@
-<p align="center">
-  <img src="WECK_Web ChatGPT Image Jun 23, 2025, 10_38_14 AM.png" alt="Mike Ciuri Banner" style="max-width:100%;" />
-</p>
-
-
 
 # 👋 Hello, I'm Mike (WECK-web)!
 
